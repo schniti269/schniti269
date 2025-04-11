@@ -52,20 +52,6 @@
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schniti269&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="schniti269 GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schniti269&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <br/>
-  <!-- Optional: WakaTime Stats -->
-  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats"/>-->
-</p>
-
----
-
 ### 🧪 Current Experiments & Side Quests
 
 *   Exploring new APIs for browser and VS Code extensions.
@@ -74,15 +60,3 @@
 *   Always on the lookout for the next interesting challenge!
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/schniti269/schniti269/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
-</p>
-
-<!-- Credits -->
-<p align="center">
-  <i>README dynamically generated & inspired by community tools.</i><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> |
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a> |
-  <a href="https://github.com/Platane/snk">GitHub Contribution Grid Snake</a>
-</p>
